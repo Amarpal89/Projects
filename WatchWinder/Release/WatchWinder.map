@@ -1,0 +1,724 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_exit.o)
+                              c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25/crtattiny45.o (exit)
+c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_copy_data.o)
+                              ./main.o (__do_copy_data)
+c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_clear_bss.o)
+                              ./main.o (__do_clear_bss)
+c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(cmpsf2.o)
+                              ./main.o (__ltsf2)
+c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(divsf3.o)
+                              ./main.o (__divsf3)
+c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(divsf3x.o)
+                              c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(divsf3.o) (__divsf3x)
+c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fixunssfsi.o)
+                              ./main.o (__fixunssfsi)
+c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(floatsisf.o)
+                              ./main.o (__floatsisf)
+c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_cmp.o)
+                              c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(cmpsf2.o) (__fp_cmp)
+c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_inf.o)
+                              c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(divsf3x.o) (__fp_inf)
+c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_nan.o)
+                              c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(divsf3x.o) (__fp_nan)
+c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_pscA.o)
+                              c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(divsf3x.o) (__fp_pscA)
+c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_pscB.o)
+                              c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(divsf3x.o) (__fp_pscB)
+c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_round.o)
+                              c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(divsf3.o) (__fp_round)
+c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_split3.o)
+                              c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(divsf3x.o) (__fp_split3)
+c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_zero.o)
+                              c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fixunssfsi.o) (__fp_zero)
+c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(gesf2.o)
+                              ./main.o (__gtsf2)
+c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(mulsf3.o)
+                              ./main.o (__mulsf3)
+c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(mulsf3x.o)
+                              c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(mulsf3.o) (__mulsf3x)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25/crtattiny45.o
+ .bss           0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25/crtattiny45.o
+ .text          0x00000000        0x0 ./main.o
+ .data          0x00000000        0x0 ./main.o
+ .bss           0x00000000        0x0 ./main.o
+ .text          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(cmpsf2.o)
+ .data          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(cmpsf2.o)
+ .bss           0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(cmpsf2.o)
+ .text          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(divsf3.o)
+ .data          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(divsf3.o)
+ .bss           0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(divsf3.o)
+ .text          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(divsf3x.o)
+ .data          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(divsf3x.o)
+ .text          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_cmp.o)
+ .data          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_cmp.o)
+ .bss           0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_cmp.o)
+ .text          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_round.o)
+ .data          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_round.o)
+ .text          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(gesf2.o)
+ .data          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(gesf2.o)
+ .bss           0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(gesf2.o)
+ .text          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(mulsf3x.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00002000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25/crtattiny45.o
+LOAD ./main.o
+LOAD c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a
+LOAD c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a
+START GROUP
+LOAD c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a
+LOAD c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a
+LOAD c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libc.a
+LOAD c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libattiny45.a
+END GROUP
+                0x00002000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x2000
+                0x0000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x00010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                0x00000400                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000      0x6de
+ *(.vectors)
+ .vectors       0x00000000       0x1e c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25/crtattiny45.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x0000001e                . = ALIGN (0x2)
+                0x0000001e                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000001e        0x0 linker stubs
+ *(.trampolines*)
+                0x0000001e                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem.*)
+                0x0000001e                . = ALIGN (0x2)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000001e                __ctors_start = .
+ *(.ctors)
+                0x0000001e                __ctors_end = .
+                0x0000001e                __dtors_start = .
+ *(.dtors)
+                0x0000001e                __dtors_end = .
+ SORT_BY_NAME(*)(.ctors)
+ SORT_BY_NAME(*)(.dtors)
+ *(.init0)
+ .init0         0x0000001e        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25/crtattiny45.o
+                0x0000001e                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000001e        0xc c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25/crtattiny45.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000002a       0x16 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_copy_data.o)
+                0x0000002a                __do_copy_data
+ .init4         0x00000040       0x10 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_clear_bss.o)
+                0x00000040                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000050        0x4 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25/crtattiny45.o
+ *(.init9)
+ *(.text)
+ .text          0x00000054        0x2 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25/crtattiny45.o
+                0x00000054                __vector_1
+                0x00000054                __vector_12
+                0x00000054                __bad_interrupt
+                0x00000054                __vector_6
+                0x00000054                __vector_3
+                0x00000054                __vector_11
+                0x00000054                __vector_13
+                0x00000054                __vector_7
+                0x00000054                __vector_5
+                0x00000054                __vector_4
+                0x00000054                __vector_9
+                0x00000054                __vector_2
+                0x00000054                __vector_8
+                0x00000054                __vector_14
+                0x00000056                . = ALIGN (0x2)
+ *(.text.*)
+ .text._Z10millis_getv
+                0x00000056       0x18 ./main.o
+                0x00000056                _Z10millis_getv
+ .text._Z3seqi  0x0000006e      0x144 ./main.o
+                0x0000006e                _Z3seqi
+ .text._Z4movebj
+                0x000001b2       0x68 ./main.o
+                0x000001b2                _Z4movebj
+ .text._Z4windv
+                0x0000021a       0x26 ./main.o
+                0x0000021a                _Z4windv
+ .text._Z5setupv
+                0x00000240       0x74 ./main.o
+                0x00000240                _Z5setupv
+ .text.startup.main
+                0x000002b4       0x6e ./main.o
+                0x000002b4                main
+ .text.__vector_10
+                0x00000322       0x46 ./main.o
+                0x00000322                __vector_10
+ .text.avr-libc.fplib
+                0x00000368        0x8 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(cmpsf2.o)
+                0x00000368                __nesf2
+                0x00000368                __eqsf2
+                0x00000368                __cmpsf2
+                0x00000368                __ltsf2
+                0x00000368                __lesf2
+ .text.avr-libc.fplib
+                0x00000370        0x4 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(divsf3.o)
+                0x00000370                __divsf3
+ .text.avr-libc.fplib
+                0x00000374       0xcc c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(divsf3x.o)
+                0x0000038a                __divsf3x
+                0x0000038e                __divsf3_pse
+ .text.avr-libc.fplib
+                0x00000440       0x58 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fixunssfsi.o)
+                0x00000440                __fixunssfsi
+ .text.avr-libc.fplib
+                0x00000498       0x7a c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(floatsisf.o)
+                0x00000498                __floatunsisf
+                0x0000049c                __floatsisf
+ .text.avr-libc.fplib
+                0x00000512       0x48 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_cmp.o)
+                0x00000512                __fp_cmp
+ .text.avr-libc.fplib
+                0x0000055a        0xc c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_inf.o)
+                0x0000055a                __fp_inf
+ .text.avr-libc.fplib
+                0x00000566        0x6 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_nan.o)
+                0x00000566                __fp_nan
+ .text.avr-libc.fplib
+                0x0000056c        0xe c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_pscA.o)
+                0x0000056c                __fp_pscA
+ .text.avr-libc.fplib
+                0x0000057a        0xe c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_pscB.o)
+                0x0000057a                __fp_pscB
+ .text.avr-libc.fplib
+                0x00000588       0x22 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_round.o)
+                0x00000588                __fp_round
+ .text.avr-libc.fplib
+                0x000005aa       0x44 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_split3.o)
+                0x000005aa                __fp_split3
+                0x000005ba                __fp_splitA
+ .text.avr-libc.fplib
+                0x000005ee        0xe c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_zero.o)
+                0x000005ee                __fp_zero
+                0x000005f0                __fp_szero
+ .text.avr-libc.fplib
+                0x000005fc        0x8 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(gesf2.o)
+                0x000005fc                __gesf2
+                0x000005fc                __gtsf2
+ .text.avr-libc.fplib
+                0x00000604        0x4 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(mulsf3.o)
+                0x00000604                __mulsf3
+ .text.avr-libc.fplib
+                0x00000608       0xd2 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(mulsf3x.o)
+                0x0000061a                __mulsf3x
+                0x0000061e                __mulsf3_pse
+                0x000006da                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000006da        0x0 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_exit.o)
+                0x000006da                _exit
+                0x000006da                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000006da        0x4 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_exit.o)
+ *(.fini0)
+ *(.hightext)
+ *(.hightext*)
+ *(.progmemx.*)
+                0x000006de                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+                0x000006de                _etext = .
+
+.data           0x00800060        0xc load address 0x000006de
+                0x00800060                PROVIDE (__data_start = .)
+ *(.data)
+ *(.data*)
+ .data.seqN     0x00800060        0x1 ./main.o
+                0x00800060                seqN
+ .data.delay    0x00800061        0x2 ./main.o
+                0x00800061                delay
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata._ZL6hSteps
+                0x00800063        0x8 ./main.o
+ *(.gnu.linkonce.r*)
+                0x0080006c                . = ALIGN (0x2)
+ *fill*         0x0080006b        0x1 
+                0x0080006c                _edata = .
+                0x0080006c                PROVIDE (__data_end = .)
+
+.bss            0x0080006c        0x8
+                0x0080006c                PROVIDE (__bss_start = .)
+ *(.bss)
+ *(.bss*)
+ .bss.timer     0x0080006c        0x4 ./main.o
+                0x0080006c                timer
+ .bss.milliseconds
+                0x00800070        0x4 ./main.o
+                0x00800070                milliseconds
+ *(COMMON)
+                0x00800074                PROVIDE (__bss_end = .)
+                0x000006de                __data_load_start = LOADADDR (.data)
+                0x000006ea                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800074        0x0
+                [!provide]                PROVIDE (__noinit_start = .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end = .)
+                0x00800074                _end = .
+                [!provide]                PROVIDE (__heap_start = .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x11
+ *(.comment)
+ .comment       0x00000000       0x11 ./main.o
+                                 0x12 (size before relaxing)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x3c c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25/crtattiny45.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0x60
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_exit.o)
+ .debug_aranges
+                0x00000020       0x20 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_copy_data.o)
+ .debug_aranges
+                0x00000040       0x20 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_clear_bss.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000      0x492
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x420 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25/crtattiny45.o
+ .debug_info    0x00000420       0x26 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_exit.o)
+ .debug_info    0x00000446       0x26 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_copy_data.o)
+ .debug_info    0x0000046c       0x26 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_clear_bss.o)
+
+.debug_abbrev   0x00000000      0x424
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x3e8 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25/crtattiny45.o
+ .debug_abbrev  0x000003e8       0x14 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_exit.o)
+ .debug_abbrev  0x000003fc       0x14 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_copy_data.o)
+ .debug_abbrev  0x00000410       0x14 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_clear_bss.o)
+
+.debug_line     0x00000000      0x19a
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000       0x1d c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25/crtattiny45.o
+ .debug_line    0x0000001d       0x61 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_exit.o)
+ .debug_line    0x0000007e       0x97 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_copy_data.o)
+ .debug_line    0x00000115       0x85 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_clear_bss.o)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x00000000      0x1c8
+ *(.debug_str)
+ .debug_str     0x00000000      0x169 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25/crtattiny45.o
+ .debug_str     0x00000169       0x5f c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_exit.o)
+ .debug_str     0x000001c8       0x5f c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_copy_data.o)
+ .debug_str     0x000001c8       0x5f c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_clear_bss.o)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_addr
+ *(.debug_addr)
+OUTPUT(WatchWinder.elf elf32-avr)
+LOAD linker stubs
+
+Cross Reference Table
+
+Symbol                                            File
+_Z10millis_getv                                   ./main.o
+_Z3seqi                                           ./main.o
+_Z4movebj                                         ./main.o
+_Z4windv                                          ./main.o
+_Z5setupv                                         ./main.o
+__bad_interrupt                                   c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25/crtattiny45.o
+__bss_end                                         c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_clear_bss.o)
+__bss_start                                       c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_clear_bss.o)
+__cmpsf2                                          c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(cmpsf2.o)
+__data_end                                        c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_copy_data.o)
+__data_load_start                                 c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_copy_data.o)
+__data_start                                      c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_copy_data.o)
+__divsf3                                          c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(divsf3.o)
+                                                  ./main.o
+__divsf3_pse                                      c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(divsf3x.o)
+__divsf3x                                         c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(divsf3x.o)
+                                                  c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(divsf3.o)
+__do_clear_bss                                    c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_clear_bss.o)
+                                                  ./main.o
+__do_copy_data                                    c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_copy_data.o)
+                                                  ./main.o
+__eqsf2                                           c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(cmpsf2.o)
+__fixunssfsi                                      c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fixunssfsi.o)
+                                                  ./main.o
+__floatsisf                                       c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(floatsisf.o)
+                                                  ./main.o
+__floatunsisf                                     c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(floatsisf.o)
+__fp_cmp                                          c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_cmp.o)
+                                                  c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(gesf2.o)
+                                                  c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(cmpsf2.o)
+__fp_inf                                          c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_inf.o)
+                                                  c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(mulsf3x.o)
+                                                  c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(divsf3x.o)
+__fp_nan                                          c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_nan.o)
+                                                  c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(mulsf3x.o)
+                                                  c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(divsf3x.o)
+__fp_pscA                                         c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_pscA.o)
+                                                  c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(mulsf3x.o)
+                                                  c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(divsf3x.o)
+__fp_pscB                                         c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_pscB.o)
+                                                  c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(mulsf3x.o)
+                                                  c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(divsf3x.o)
+__fp_round                                        c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_round.o)
+                                                  c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(mulsf3.o)
+                                                  c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(divsf3.o)
+__fp_split3                                       c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_split3.o)
+                                                  c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(mulsf3x.o)
+                                                  c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(divsf3x.o)
+__fp_splitA                                       c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_split3.o)
+                                                  c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fixunssfsi.o)
+__fp_szero                                        c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_zero.o)
+                                                  c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(mulsf3x.o)
+                                                  c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(divsf3x.o)
+__fp_zero                                         c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fp_zero.o)
+                                                  c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(fixunssfsi.o)
+__gesf2                                           c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(gesf2.o)
+__gtsf2                                           c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(gesf2.o)
+                                                  ./main.o
+__heap_end                                        c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25/crtattiny45.o
+__init                                            c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25/crtattiny45.o
+__lesf2                                           c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(cmpsf2.o)
+__ltsf2                                           c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(cmpsf2.o)
+                                                  ./main.o
+__mulsf3                                          c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(mulsf3.o)
+                                                  ./main.o
+__mulsf3_pse                                      c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(mulsf3x.o)
+__mulsf3x                                         c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(mulsf3x.o)
+                                                  c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(mulsf3.o)
+__nesf2                                           c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25\libm.a(cmpsf2.o)
+__stack                                           c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25/crtattiny45.o
+__vector_1                                        c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25/crtattiny45.o
+__vector_10                                       ./main.o
+                                                  c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25/crtattiny45.o
+__vector_11                                       c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25/crtattiny45.o
+__vector_12                                       c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25/crtattiny45.o
+__vector_13                                       c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25/crtattiny45.o
+__vector_14                                       c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25/crtattiny45.o
+__vector_2                                        c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25/crtattiny45.o
+__vector_3                                        c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25/crtattiny45.o
+__vector_4                                        c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25/crtattiny45.o
+__vector_5                                        c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25/crtattiny45.o
+__vector_6                                        c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25/crtattiny45.o
+__vector_7                                        c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25/crtattiny45.o
+__vector_8                                        c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25/crtattiny45.o
+__vector_9                                        c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25/crtattiny45.o
+__vector_default                                  c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25/crtattiny45.o
+__vectors                                         c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25/crtattiny45.o
+_exit                                             c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_exit.o)
+delay                                             ./main.o
+exit                                              c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr25\libgcc.a(_exit.o)
+                                                  c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25/crtattiny45.o
+main                                              ./main.o
+                                                  c:/msys64/home/amarpal/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr25/crtattiny45.o
+milliseconds                                      ./main.o
+seqN                                              ./main.o
+timer                                             ./main.o
