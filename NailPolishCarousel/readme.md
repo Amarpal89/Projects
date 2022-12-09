@@ -18,4 +18,4 @@ Rotating segments are keyed - hex key with 7 bottles per section means you can h
 M5 Washers
 
 
-![Model.jpg](images/Model.jpg)
+![model.jpg](model.jpg)
