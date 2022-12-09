@@ -3,6 +3,8 @@
 
 Rotating segments are keyed - hex key with 7 bottles per section means you can have segments aligned vertically or a gentle sprial.
 
+### Note: this version has been optimised for additive manufacturing and adjusted to suit more common bearings and shaft vs. the one pictured. These files have therefore not been printed but should work fine, your milage may vary. 
+
 ##### Files:
 `Top_Static.3MF` Top of assembly, is pressfit onto shaft, use glue if fit is too loose. Recommend adding another method of retaining above for safety - i.e. E-Clip.
 `Top_Carousel.3MF` top of rotating section, 625 bearing to be inserted into the top - add 1-2 M5 washers on top before adding top static section.
